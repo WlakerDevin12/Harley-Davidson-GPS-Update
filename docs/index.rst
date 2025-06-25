@@ -4,7 +4,7 @@ How we Update Harley-Davidson GPS
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-.. image:: Login.jpg
+.. image:: corosgpsupdate.jpg
    :alt: My Project Logo
    :width: 350px
    :align: center
